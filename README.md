@@ -68,8 +68,9 @@
   
   ### 🤝 Connect with Me!
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com) 
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-61DAFB?style=flat-square&logo=react&logoColor=black)](https://www.portfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/knegi) 
+  [![Data Science](https://img.shields.io/badge/-Portfolio-61DAFB?style=flat-square&logo=react&logoColor=black)]([https://www.portfolio.com](https://knegi.notion.site/Data-Scientist-34e6025083ef45cea273851e8bf139e4?pvs=4))
+  [![Web Dev](https://img.shields.io/badge/-Portfolio-61DAFB?style=flat-square&logo=react&logoColor=black)]([https://www.portfolio.com]([https://knegi.notion.site/Data-Scientist-34e6025083ef45cea273851e8bf139e4?pvs=4)](https://knegi.notion.site/Web-Developer-6745126ddd854241863a2ce01b13a582?pvs=4))
 
 </div>
 
