@@ -1,8 +1,8 @@
 <div align="center">
   
-  ### Hi there! I'm **Karan Negi** 👋
+  # Hi there! I'm **Karan Negi** 👋
 
-  🚀 **Aspiring Developer | Passionate Learner | Data Science & Web Development Enthusiast**  
+  🚀 **Artist | Data Science & Web Development Enthusiast | Passionate Learner | Editor**  
   <br>
   
   <img src="https://img.shields.io/badge/-Data%20Science-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij48cGF0aCBkPSJNMTQgNEExMCAxMCAwIDAgMCA0IDI0YTEwIDEwIDAgMSAwIDIwIDBoLTFhOSA5IDAgMSAxLTktOHYtMWExMCAxMCAwIDAgMC0xMCA5aDJhOCA4IDAgMSAxLTggOC0xMCAxMCAwIDAgMC0yMC0xLjVsMTIgMTJsMTEuNS0xMS41QTEwIDEwIDAgMSAwMTQgNHptNCAxMmEyIDIgMCAwIDEgMiAwaDFhMSAxIDAgMCAxIDEgMXYxYTEgMSAwIDAgMS0xIDF2aDFhMiAyIDAgMCAxLTIgMnYxaDJhMSAxIDAgMCAxIDEgMXYxYTIgMiAwIDAgMS0yIDJoLTFhMSAxIDAgMCAxLTF2LTEgMSAxIDAgMCAxIDEgMXptNCAxN2EyIDIgMCAwIDEtMiAwdi0xaDFhMSAxIDAgMCAxIDEgMXYxYTEgMSAwIDAgMS0xIDF2MWEyIDIgMCAwIDEgMCAyYTMgMyAwIDAgMCAxIDNoNGEzIDMgMCAwIDAgMi0yVjM5YTIgMiAwIDAgMS0yLTJoLTFhMSAxIDAgMCAxLTEtMXYtMWEyIDIgMCAwIDEgMi0yaDJhMSAxIDAgMCAxIDEgMXYxIDEgMSAwIDAgMS0xIDFhMSAxIDAgMCAxLTEtMXYtMWExIDEgMCAwIDEtMS0xaDJhMiAyIDAgMCAxIDIgMnYxaC0xbTIgLTZhMSAxIDAgMCAwMS0xIDEgMSAwIDAgMC0xLTF2LS43TDI1IDI0bC03IDd6bTIgMGMwIC4yIDAgLjMuMS42VjIwaDBsNi00bDYgNEgxOHoiLz48L3N2Zz4=" alt="DS" /> **Data Science** & **Web Development** Enthusiast  
@@ -33,11 +33,11 @@
 
   | Project | Description | Tech Stack |
   | --- | --- | --- |
-  | **Aahaar Parikalak** | A web and AI-based tool predicting daily calorie intake | Python, TensorFlow, Web Dev |
-  | **Ecommerce Website** | A full-fledged eCommerce platform | HTML, CSS, JavaScript, SQL |
-  | **Personal Portfolio** | Showcasing my skills & journey | React, Figma |
-  | **Car Price Prediction** | ML model predicting car prices | Python, ML Algorithms |
-  | **Advanced CSS UI** | Sliding animation website with advanced UI | HTML, CSS |
+  | **Aahaar Parikalak** | A web and AI-based tool predicting daily calorie intake | Python, Web Dev |
+  | **Ecommerce Website** | A full-fledged eCommerce platform | HTML, CSS, JavaScript, React.js , STRAPI, STRIPE |
+  | **Personal Portfolio** | Showcasing my skills & journey | HTML, CSS, JS, Figma |
+  | **Car Price Prediction** | ML model predicting car prices | Python, HTML, CSS, JS, Flask |
+  | **Advanced CSS UI** | Sliding animation website with advanced UI | HTML, CSS, JS |
 
 </div>
 
