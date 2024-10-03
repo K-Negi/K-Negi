@@ -76,8 +76,6 @@
 
 ---
 
-This design adds a professional and visual appeal to your profile with centered alignment and icon usage. You can replace the project descriptions and links as per your requirements!
-
 <!--
 **K-Negi/K-Negi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
